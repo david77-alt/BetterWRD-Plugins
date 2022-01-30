@@ -38,5 +38,14 @@ bwrd.getUser().then(info => console.log(info)); // Prints the user's name, avata
 
 
 &nbsp;
+### How do Plugins get updated?
+BetterWRD periodically checks for plugin updates every 3 hours.\
+If the `@version` number on GitHub is different than the one stored on the user's browser (and of course if the `@source` URL is valid), BetterWRD will automatically ask the the user to update the plugin with a fixed box at the bottom of the page.
+
+![image](https://cdn.discordapp.com/attachments/800294579856605204/937412167966261248/unknown.png)
+
+Or of course, you can do it manually on the Plugins page.
+
+&nbsp;
 ### Distributing your Plugin to the community
-This file is work-in-progress.
+This section is work-in-progress.
