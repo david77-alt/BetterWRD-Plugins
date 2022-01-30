@@ -1,6 +1,6 @@
 
 # Creating & Sharing Plugins for BetterWRD
-BetterWRD Plugins allow users to run scripts made by other users that enhance WeAreDevs even more by adding new Features!\
+BetterWRD Plugins allow users to run scripts made by other users that enhance WeAreDevs even more by adding fresh new features!\
 It's easy to create & share plugins! This tutorial will teach you everything you have to know.
 
 
