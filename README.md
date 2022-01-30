@@ -14,7 +14,7 @@ This is how the script should look like:
     @version 1.0.0
     @description My cool plugin.
     @author You
-    @source https://raw.githubusercontent.com/davve77/testing/main/firstPlugin.bwrd.js
+    @source https://raw.githubusercontent.com/davve77/BetterWRD-Plugins/main/plugins/plugin.bwrd.js
 */
 
 
