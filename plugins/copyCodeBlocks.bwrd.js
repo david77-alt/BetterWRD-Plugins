@@ -1,5 +1,5 @@
 /*
-    @name Copy Code Blocks to clipboard
+    @name Copy Code Blocks
     @version 1.0.0
     @description Adds a copy to clipboard button to code blocks.
     @author david77
