@@ -1,6 +1,6 @@
 /*
     @name Copy Code Blocks
-    @version 1.0.0
+    @version 1.0.1
     @description Adds a copy to clipboard button to code blocks.
     @author david77
     @source https://raw.githubusercontent.com/davve77/BetterWRD-Plugins/main/plugins/copyCodeBlocks.bwrd.js
