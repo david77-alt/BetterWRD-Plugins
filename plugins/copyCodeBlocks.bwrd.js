@@ -1,7 +1,7 @@
 /*
-    @name Copy Code Blocks 2 
-    @version 1.0.3
-    @description Hover over code blocks to show a copy code button. 2
+    @name Copy Code Blocks
+    @version 1.0.0
+    @description Hover over code blocks to show a copy code button.
     @author david77
     @source https://raw.githubusercontent.com/davve77/BetterWRD-Plugins/main/plugins/copyCodeBlocks.bwrd.js
 */
