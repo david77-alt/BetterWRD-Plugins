@@ -3,7 +3,7 @@
     @version 1.0.0
     @description Show a blue OP badge next to the thread author name.
     @author david77
-    @source https://raw.githubusercontent.com/davve77/BetterWRD-Plugins/main/plugins/copyCodeBlocks.bwrd.js
+    @source https://raw.githubusercontent.com/davve77/BetterWRD-Plugins/main/plugins/originalPoster.bwrd.js
 */
 
 
