@@ -30,6 +30,7 @@ if(document.querySelector('.replygroup')){
         border-radius: 5px;
         display: flex;
         align-items: center;
+        pointer-events: none;
         gap: 2px;
     }
     .opDiv p{
