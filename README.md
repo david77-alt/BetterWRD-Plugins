@@ -5,7 +5,7 @@ It's easy to create & share plugins. This tutorial will teach you everything you
 
 
 ### Getting Started
-First things first, create a file named `plugin.bwrd.js`. You'll use this file to load the plugin on BetterWRD (name must end in `.bwrd.js`).\
+First things first, create a file named `plugin.bwrd.js`. You'll use this file to load the plugin on BetterWRD (name must end with `.bwrd.js`).\
 This is how the script should look like:
 
 ```js
@@ -36,6 +36,7 @@ bwrd.setSettings({"proeprty": "value"});
 bwrd.getVersion(); // Returns the currently installed BetterWRD version number.
 bwrd.getUser().then(info => console.log(info)); // Prints the user's name, avatar, reputation, join date etc.
 ```
+Yes, this is more of a library than an API.
 
 
 &nbsp;
